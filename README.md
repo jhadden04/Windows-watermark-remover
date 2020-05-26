@@ -16,3 +16,4 @@ explorer.exe
 exit
 ```
 then you save this as Activation.bat, and change the path in the code to where you have saved it
+when this code is run it will restart, once you press enter, and will mean that the watermark is gone once you open up again
